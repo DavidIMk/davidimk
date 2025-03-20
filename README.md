@@ -23,6 +23,8 @@ I build modern, scalable web applications with a focus on great user experiences
 
 - [React Hook Form PR #12690](https://github.com/react-hook-form/react-hook-form/pull/12690) 💪  
   Update Fieldarray Unmount Status.
+- [React Hook Form PR #12677](https://github.com/react-hook-form/react-hook-form/pull/12677) 💪  
+  Unmounted Clean Nested Field Incorrectly Update On Reset with keepDirtyValues.
 
 ---
 
