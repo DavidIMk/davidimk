@@ -1,6 +1,6 @@
 # Hi there, I'm David! 👋
 
-I'm a passionate **Frontend Engineer** who also loves to dive into backend challenges! 🚀  
+I'm a passionate **Fullstack Engineer** 🚀  
 I build modern, scalable web applications with a focus on great user experiences and robust code.
 
 ## 🛠️ Tech Stack
